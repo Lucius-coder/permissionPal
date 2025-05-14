@@ -2,13 +2,15 @@
 
 # dependencies
 node_modules/
-
+.vscode
+.idea
 # Expo
 .expo/
 dist/
 web-build/
 expo-env.d.ts
-
+.gitignore
+permissionHandling.csv
 # Native
 .kotlin/
 *.orig.*
